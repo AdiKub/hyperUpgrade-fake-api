@@ -1,0 +1,17 @@
+{
+  "name": "json-stub-server",
+  "version": "1.0.0",
+  "description": "Fake Api json",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.14.2"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}

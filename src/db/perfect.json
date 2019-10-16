@@ -1,0 +1,188 @@
+{
+  "perfect": [
+    {
+      "_id": "5da5a53dfa9d339b09ce690c",
+      "rating": 3,
+      "populars": 56,
+      "index": 0,
+      "inStock": false,
+      "price": "$997",
+      "picture": "http://placehold.it/32x32",
+      "pcname": "INTERODEO",
+      "description": "Ad occaecat excepteur do sunt do incididunt incididunt deserunt est. Reprehenderit aute quis culpa eu consequat sit reprehenderit ut sint excepteur non reprehenderit. Veniam adipisicing enim deserunt ea Lorem commodo consectetur tempor sint. Quis nulla ex fugiat incididunt culpa duis cupidatat velit elit minim consectetur. Ex culpa nulla fugiat ullamco consequat nisi amet dolore amet deserunt.",
+      "registered": "Monday, March 23, 2015 8:47 AM",
+      "specifications": {
+        "graphics card": "GeForce RTX2070 super",
+        "processor": "Intel Core i7 - 9600",
+        "motherboard": "ASUS TUF Z370-PLUS GAMING",
+        "cpu cooler": "Cooler Master MasterAir",
+        "RAM": "32Gb DDR4 3600MHz Kingston HyperX",
+        "SSD": "512Gb SSD Samsung 970 PRO Series",
+        "computer cases": "Lian Li Lancool One Digital Black",
+        "hard disk drive": "1Tb SATA-III Western Digital Gold",
+        "Power Supplies": "800W SeaSonic SSR-800GD"
+      }
+    },
+    {
+      "_id": "5da5a53d17ba457fd00ef385",
+      "rating": 2,
+      "populars": 78,
+      "index": 1,
+      "inStock": false,
+      "price": "$1,128",
+      "picture": "http://placehold.it/32x32",
+      "pcname": "MANTRO",
+      "description": "Irure proident est non cupidatat ut sunt. Pariatur magna in labore anim ut. Enim cillum id cupidatat laboris ex nulla do ea cupidatat voluptate. Occaecat non consectetur laboris ut nulla id nulla duis officia aliquip est magna est.",
+      "registered": "Saturday, December 22, 2018 5:07 AM",
+      "specifications": {
+        "graphics card": "GeForce RTX2070 super",
+        "processor": "AMD Ryzen 3600x",
+        "motherboard": "ASRock X570 Phantom Gaming 4",
+        "cpu cooler": "DeepCool FRYZEN",
+        "RAM": "16Gb DDR4 3200MHz G.Skill Trident Z RGB",
+        "SSD": "480Gb SSD ADATA Ultimate SU900",
+        "computer cases": "NZXT H710i Black/Red",
+        "hard disk drive": "1Tb SATA-III Seagate Enterprise Capacity",
+        "Power Supplies": "800W SeaSonic SSR-800GD"
+      }
+    },
+    {
+      "_id": "5da5a53ddde0ac5541f9614d",
+      "rating": 4,
+      "populars": 76,
+      "index": 2,
+      "inStock": false,
+      "price": "$1,214",
+      "picture": "http://placehold.it/32x32",
+      "pcname": "ZIPAK",
+      "description": "Lorem ut excepteur incididunt excepteur incididunt. Exercitation aute nulla esse est aute in ea fugiat sit. Est tempor ullamco amet magna sint nulla. Eu nostrud in velit tempor reprehenderit aliqua consectetur anim eiusmod. Amet enim proident ex veniam elit sunt in ipsum excepteur sint nostrud mollit. Dolor irure Lorem ad occaecat incididunt aute pariatur consectetur esse commodo et elit proident sunt.",
+      "registered": "Saturday, July 27, 2019 8:11 PM",
+      "specifications": {
+        "graphics card": "GeForce RTX2060 super",
+        "processor": "AMD Ryzen 3700x",
+        "motherboard": "ASRock X570 Phantom Gaming 4",
+        "cpu cooler": "Be Quiet Dark Rock Slim",
+        "RAM": "16Gb DDR4 3200MHz Corsair Vengeance LPX",
+        "SSD": "960Gb SSD Kingston UV500",
+        "computer cases": "NZXT H710i Black/Red",
+        "hard disk drive": "1Tb SATA-III HGST (Hitachi) Ultrastar DC",
+        "Power Supplies": "650W Be Quiet Dark Power Pro 11"
+      }
+    },
+    {
+      "_id": "5da5a53dbb5e52a3942e2a50",
+      "rating": 1,
+      "populars": 24,
+      "index": 3,
+      "inStock": false,
+      "price": "$992",
+      "picture": "http://placehold.it/32x32",
+      "pcname": "ONTAGENE",
+      "description": "Excepteur velit magna fugiat amet ut magna quis non pariatur. Est ex pariatur officia esse aliqua dolor. Cupidatat fugiat ut cillum excepteur aute ex id. Elit cupidatat sint labore cupidatat et proident ut velit sunt aute non fugiat officia. Ut velit exercitation laboris ex.",
+      "registered": "Saturday, July 2, 2016 1:36 PM",
+      "specifications": {
+        "graphics card": "GeForce RTX2060 super",
+        "processor": "Intel Core i7 - 9600",
+        "motherboard": "ASUS TUF Z370-PLUS GAMING II",
+        "cpu cooler": "Cooler Master MasterAir",
+        "RAM": "32Gb DDR4 3600MHz Kingston HyperX",
+        "SSD": "960Gb SSD Kingston UV500",
+        "computer cases": "DeepCool MATREXX 70 ADD-RGB 3F Black",
+        "hard disk drive": "1Tb SATA-III Toshiba (MD04ABA400V)",
+        "Power Supplies": "700W Enermax Platimax D.F."
+      }
+    },
+    {
+      "_id": "5da5a53d01bd992f5ba538e8",
+      "rating": 3,
+      "populars": 12,
+      "index": 4,
+      "inStock": false,
+      "price": "$1,316",
+      "picture": "http://placehold.it/32x32",
+      "pcname": "CENTREE",
+      "description": "Tempor eiusmod minim sint ut et officia mollit eu qui irure cupidatat amet. Nulla minim magna ullamco do fugiat irure occaecat est id aute. Pariatur mollit elit sunt commodo amet dolore tempor est non amet laborum. Amet voluptate proident sit aliqua irure dolore sunt dolor magna incididunt nostrud occaecat incididunt.",
+      "registered": "Monday, March 30, 2015 10:47 AM",
+      "specifications": {
+        "graphics card": "GeForce RTX2060 super",
+        "processor": "AMD Ryzen 3600x",
+        "motherboard": "ASRock X570 Phantom Gaming 4",
+        "cpu cooler": "Cooler Master MasterAir",
+        "RAM": "32Gb DDR4 3466MHz PC-27700 Corsair Vengeance RGB PRO",
+        "SSD": "480Gb SSD Intel S4600 Series",
+        "computer cases": "Cougar Puritas RGB Black",
+        "hard disk drive": "2Tb SATA-III Seagate Barracuda",
+        "Power Supplies": "600W Enermax Revolution87+"
+      }
+    },
+    {
+      "_id": "5da5a53d9bbbd7d7adb0c7c6",
+      "rating": 4,
+      "populars": 61,
+      "index": 5,
+      "inStock": true,
+      "price": "$1,159",
+      "picture": "http://placehold.it/32x32",
+      "pcname": "MARKETOID",
+      "description": "Magna est duis aliquip aute minim enim. Mollit veniam id amet in consequat tempor aliquip eu consectetur fugiat. Mollit in dolor cillum eu est in. Tempor nostrud deserunt qui consequat amet in deserunt minim nisi id nostrud. Ad amet dolor commodo laborum. Cupidatat ea pariatur elit dolor nostrud sunt sunt mollit veniam consectetur voluptate. Lorem incididunt tempor consectetur dolore id cupidatat exercitation cillum enim.",
+      "registered": "Friday, January 31, 2014 1:55 PM",
+      "specifications": {
+        "graphics card": "GeForce RTX2060",
+        "processor": "AMD Ryzen 3600",
+        "motherboard": "MSI X470 GAMING PLUS MAX",
+        "cpu cooler": "Be Quiet Dark Rock 4",
+        "RAM": "16Gb DDR4 3200MHz G.Skill Trident Z RGB",
+        "SSD": "256Gb SSD ADATA XPG SX6000",
+        "computer cases": "DeepCool MATREXX 70 ADD-RGB 3F Black",
+        "hard disk drive": "2Tb SATA-III Western Digital Black",
+        "Power Supplies": "850W Cooler Master V850"
+      }
+    },
+    {
+      "_id": "5da5a53d693fc06d2ae7c2c8",
+      "rating": 4,
+      "populars": 71,
+      "index": 6,
+      "inStock": true,
+      "price": "$1,174",
+      "picture": "http://placehold.it/32x32",
+      "pcname": "KONGENE",
+      "description": "Minim enim aliquip eu amet aute sit. Aute adipisicing reprehenderit excepteur ullamco fugiat laboris. Sit nisi sint eu quis. Lorem id magna ad eiusmod veniam veniam aliqua voluptate cupidatat tempor. Nisi est incididunt minim dolore qui dolore ullamco elit nostrud ullamco. Aliquip nostrud veniam consectetur adipisicing laborum deserunt esse laborum.",
+      "registered": "Tuesday, January 3, 2017 6:17 PM",
+      "specifications": {
+        "graphics card": "AMD Radeon RX 5700",
+        "processor": "Intel Core i7 - 9600",
+        "motherboard": "ASUS TUF Z370-PLUS GAMING II",
+        "cpu cooler": "DeepCool ASSASSIN II",
+        "RAM": "16Gb DDR4 4400MHz G.Skill Trident Z Royal",
+        "SSD": "515Gb SSD HP EX920",
+        "computer cases": "Cougar Puritas RGB Black",
+        "hard disk drive": "1Tb SATA-III Western Digital Gold",
+        "Power Supplies": "800W SeaSonic SSR-800GD"
+      }
+    },
+    {
+      "_id": "5da5a53dfc72e22044cc479d",
+      "rating": 1,
+      "populars": 100,
+      "index": 7,
+      "inStock": false,
+      "price": "$1,079",
+      "picture": "http://placehold.it/32x32",
+      "pcname": "ZOUNDS",
+      "description": "Consequat laborum esse magna cupidatat in anim dolore nulla sunt. Duis mollit qui fugiat deserunt anim irure incididunt duis cupidatat anim. Aliquip sit eu enim veniam sunt.",
+      "registered": "Monday, February 10, 2014 12:17 PM",
+      "specifications": {
+        "graphics card": "GeForce RTX2060 super",
+        "processor": "Intel Core i7 - 9600K",
+        "motherboard": "ASUS PRIME Z370-A II",
+        "cpu cooler": "PCcooler GI-R68X CORONA RGB",
+        "RAM": "16Gb DDR4 4400MHz G.Skill Trident Z Royal",
+        "SSD": "512Gb SSD Samsung 970 PRO Series",
+        "computer cases": " ASUS TUF Gaming GT501 Black",
+        "hard disk drive": "2Tb SATA-III Seagate Barracuda",
+        "Power Supplies": "750W Corsair AX750"
+      }
+    }
+  ]
+}

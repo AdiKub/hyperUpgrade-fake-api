@@ -1,0 +1,188 @@
+{
+  "powerful": [
+    {
+      "_id": "5da5a07179ee1bdfe6513c2c",
+      "rating": 4,
+      "populars": 86,
+      "index": 0,
+      "inStock": true,
+      "price": "$4,857",
+      "picture": "http://placehold.it/32x32",
+      "pcname": "REPETWIRE",
+      "description": "Laborum consequat adipisicing quis voluptate culpa sit nostrud mollit anim cupidatat sunt. Ea incididunt officia voluptate nisi consequat esse aute commodo et aute ullamco id. Ipsum ea velit sunt quis in non laboris laborum. Amet ad veniam ea velit aliqua nulla. Sint exercitation non magna nostrud proident ipsum proident labore anim nostrud. Reprehenderit adipisicing consequat officia occaecat. Et ullamco mollit adipisicing esse ut magna velit Lorem aute dolore laborum minim amet.",
+      "registered": "Monday, June 18, 2018 11:01 PM",
+      "specifications": {
+        "graphics card": "SLIx2 GeForce RTX2080 super",
+        "processor": "Intel Core i9 - 9980XE",
+        "motherboard": "ASUS ROG STRIX X299-E GAMING",
+        "cpu cooler": "Corsair Hydro H150i PRO",
+        "RAM": "64Gb DDR4 3200MHz Crucial Ballistix Sport",
+        "SSD": "1Tb SSD Samsung 860 EVO Series",
+        "computer cases": " ASUS TUF Gaming GT501 Black",
+        "hard disk drive": "4Tb SATA-III Toshiba X300",
+        "Power Supplies": "1000W Enermax Revolution87+ (ERV1000EWT-G)"
+      }
+    },
+    {
+      "_id": "5da5a071a1239f66cf1cffcc",
+      "rating": 3,
+      "populars": 34,
+      "index": 1,
+      "inStock": false,
+      "price": "$5,723",
+      "picture": "http://placehold.it/32x32",
+      "pcname": "HOTCAKES",
+      "description": "Veniam aliquip qui excepteur excepteur nulla in culpa. Ut ea elit sit cillum pariatur in. Lorem et laboris reprehenderit amet sint est elit sit et. Laborum sint culpa eu cillum.",
+      "registered": "Tuesday, July 23, 2019 12:58 PM",
+      "specifications": {
+        "graphics card": "SLIx2 GeForce RTX2070 super",
+        "processor": "Intel Core i9 - 9940X",
+        "motherboard": "ASUS WS X299 SAGE/10G",
+        "cpu cooler": "Cooler Master MAM-D7PN-DWRPS-T1",
+        "RAM": "64Gb DDR4 4400MHz G.Skill Trident Z Royal",
+        "SSD": "1Tb SSD Samsung 860 EVO Series",
+        "computer cases": "Phanteks Enthoo Evolv X Glass Black",
+        "hard disk drive": "4Tb SATA-III Western Digital Gold",
+        "Power Supplies": "1200W Cooler Master V1200 (RSC00-AFBAG1-EU)"
+      }
+    },
+    {
+      "_id": "5da5a071823cee274851f188",
+      "rating": 5,
+      "populars": 8,
+      "index": 2,
+      "inStock": false,
+      "price": "$3,083",
+      "picture": "http://placehold.it/32x32",
+      "pcname": "DIGIGENE",
+      "description": "Ea nulla ex ex ea cillum aute Lorem sit amet dolor. Consectetur tempor eiusmod anim elit ad labore enim. Do qui do qui velit ex eiusmod enim non voluptate aute mollit culpa aliqua laboris. Eiusmod anim incididunt veniam fugiat ex sint voluptate exercitation et aliqua pariatur eu. Velit nulla nulla commodo sint irure velit duis mollit anim. Voluptate veniam qui consectetur deserunt.",
+      "registered": "Monday, July 4, 2016 10:49 PM",
+      "specifications": {
+        "graphics card": "SLIx2 GeForce RTX2080 Ti",
+        "processor": "Intel Core i9 - 9940X",
+        "motherboard": "ASRock Fatal1ty X299 Professional Gaming i9 XE",
+        "cpu cooler": "NZXT Kraken X62",
+        "RAM": "32Gb DDR4 3200MHz G.Skill Trident Z RGB",
+        "SSD": "480Gb SSD Intel S4600 Series",
+        "computer cases": "Phanteks Enthoo Evolv X Glass Black",
+        "hard disk drive": "4Tb SATA-III Seagate Enterprise Capacity",
+        "Power Supplies": "1200W SeaSonic SSR-850GD"
+      }
+    },
+    {
+      "_id": "5da5a0719cd7fa6fc29701e2",
+      "rating": 1,
+      "populars": 7,
+      "index": 3,
+      "inStock": false,
+      "price": "$4,203",
+      "picture": "http://placehold.it/32x32",
+      "pcname": "CORMORAN",
+      "description": "Magna et ea ullamco id voluptate ullamco cillum aute esse irure aute sint non occaecat. Anim cupidatat reprehenderit est velit ex dolor cupidatat nisi ad. Laboris irure et cillum ut et nostrud dolor nostrud. Est sit quis nisi elit aute consequat nisi nisi. Consequat eiusmod ex labore amet ut Lorem commodo.",
+      "registered": "Thursday, April 27, 2017 8:42 AM",
+      "specifications": {
+        "graphics card": "SLIx2 GeForce RTX2080 super",
+        "processor": "Intel Core i9 - 9940X",
+        "motherboard": "MSI X299 SLI PLUS",
+        "cpu cooler": "Corsair Hydro H150i PRO",
+        "RAM": "32Gb DDR4 3200MHz G.Skill Trident Z RGB",
+        "SSD": "512Gb SSD Samsung 970 PRO Series",
+        "computer cases": "Cooler Master MasterCase Maker 5T Black/Red",
+        "hard disk drive": "4Tb SATA-III Toshiba X300",
+        "Power Supplies": "1400W Super Flower Leadex Titanium (SF-850F14HT)"
+      }
+    },
+    {
+      "_id": "5da5a0713f9ca1abbe543141",
+      "rating": 3,
+      "populars": 82,
+      "index": 4,
+      "inStock": true,
+      "price": "$5,680",
+      "picture": "http://placehold.it/32x32",
+      "pcname": "BUNGA",
+      "description": "Excepteur ad sint nostrud et duis anim cupidatat occaecat consectetur ad. Cupidatat est tempor tempor nostrud dolor irure nisi aliqua. Dolore incididunt est consectetur cupidatat id culpa minim laborum consectetur dolore mollit consequat.",
+      "registered": "Wednesday, May 11, 2016 11:06 AM",
+      "specifications": {
+        "graphics card": "CrossFire x2 AMD Radeon RX 5700 XT",
+        "processor": "Intel Core i9 - 9920X",
+        "motherboard": "ASRock X299 OC Formula",
+        "cpu cooler": "DeepCool FRYZEN",
+        "RAM": "32Gb DDR4 3200MHz G.Skill Trident Z RGB",
+        "SSD": "480Gb SSD Intel S4600 Series",
+        "computer cases": "NZXT H710i Black/Red",
+        "hard disk drive": "6Tb SATA-III Seagate Barracuda",
+        "Power Supplies": "1200W Cooler Master V1200 (RSC00-AFBAG1-EU)"
+      }
+    },
+    {
+      "_id": "5da5a071953f134d6b2e70df",
+      "rating": 4,
+      "populars": 27,
+      "index": 5,
+      "inStock": false,
+      "price": "$3,164",
+      "picture": "http://placehold.it/32x32",
+      "pcname": "INSURETY",
+      "description": "Qui ea sit ullamco tempor enim consequat deserunt voluptate. Ut labore esse excepteur laboris ex voluptate consectetur dolore proident sunt aute. Do do voluptate duis est ad anim sunt qui dolor. Est sit do enim voluptate proident velit culpa mollit.",
+      "registered": "Thursday, April 19, 2018 3:21 PM",
+      "specifications": {
+        "graphics card": "CrossFire x2 AMD Radeon RX 5700 XT",
+        "processor": "Intel Core i9 - 9920X",
+        "motherboard": "ASUS WS X299 SAGE/10G",
+        "cpu cooler": "DeepCool FRYZEN",
+        "RAM": "32Gb DDR4 3200MHz G.Skill Trident Z RGB",
+        "SSD": "1Tb SSD ADATA Ultimate SU900",
+        "computer cases": "Phanteks Enthoo Evolv X Glass Anthracite Grey",
+        "hard disk drive": "8Tb SATA-III Toshiba (MD04ABA400V)",
+        "Power Supplies": "1000W Corsair HX1000i"
+      }
+    },
+    {
+      "_id": "5da5a07184e4bfbd59d50086",
+      "rating": 1,
+      "populars": 56,
+      "index": 6,
+      "inStock": true,
+      "price": "$4,353",
+      "picture": "http://placehold.it/32x32",
+      "pcname": "BIFLEX",
+      "description": "Enim eu eiusmod eiusmod officia. Ipsum laborum sint excepteur reprehenderit esse occaecat pariatur Lorem. Commodo laborum aute mollit ut sit sit ad Lorem.",
+      "registered": "Thursday, June 7, 2018 6:49 PM",
+      "specifications": {
+        "graphics card": "SLIx2 GeForce RTX2080",
+        "processor": "Intel Core i9 - 9940X",
+        "motherboard": "ASUS PRIME X299-DELUXE II",
+        "cpu cooler": "NZXT Kraken X62",
+        "RAM": "64Gb DDR4 3200MHz Crucial Ballistix Sport",
+        "SSD": "960Gb SSD Intel S3520 Series",
+        "computer cases": " ASUS TUF Gaming GT501 Black",
+        "hard disk drive": "6Tb SATA-III HGST (Hitachi) Ultrastar DC",
+        "Power Supplies": "1000W Be Quiet Dark Power Pro 11"
+      }
+    },
+    {
+      "_id": "5da5a07123355406584ce2df",
+      "rating": 5,
+      "populars": 79,
+      "index": 7,
+      "inStock": true,
+      "price": "$5,319",
+      "picture": "http://placehold.it/32x32",
+      "pcname": "ZYTREK",
+      "description": "Minim nisi laboris pariatur occaecat et sint mollit ea est quis ad proident. Proident sunt velit incididunt officia pariatur in in commodo nostrud nulla labore enim nisi. Incididunt laboris ullamco sit velit aliquip adipisicing. Do in duis pariatur pariatur.",
+      "registered": "Thursday, January 4, 2018 12:32 AM",
+      "specifications": {
+        "graphics card": "CrossFire x2 AMD Radeon RX 5700 XT",
+        "processor": "AMD Ryzen Threadripper 2920X",
+        "motherboard": "ASUS ROG STRIX X399-E GAMING",
+        "cpu cooler": "DeepCool Castle 280 RGB",
+        "RAM": "32Gb DDR4 3200MHz G.Skill Trident Z RGB",
+        "SSD": "1Tb SSD ADATA Ultimate SU900",
+        "computer cases": "Cougar Conquer Black",
+        "hard disk drive": "6Tb SATA-III HGST (Hitachi) Ultrastar DC",
+        "Power Supplies": "1200W Corsair AX850"
+      }
+    }
+  ]
+}
