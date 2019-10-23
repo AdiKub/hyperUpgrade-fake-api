@@ -2,16 +2,22 @@
   "users": [
     {
       "id": 1,
+      "firstName": "Boby",
+      "lastName": "carlsun",
       "email": "bruno@email.com",
       "password": "bruno"
     },
     {
       "id": 2,
+      "firstName": "Pegi",
+      "lastName": "Sukinsun",
       "email": "techie@email.com",
       "password": "techie"
     },
     {
       "id": 3,
+      "firstName": "Bill",
+      "lastName": "Chpok",
       "email": "odiderder@mail.com",
       "password": "sdsddv76dcs"
     }
