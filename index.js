@@ -10,7 +10,6 @@ const jwt = require('jsonwebtoken')
 const FIRST_OBJECT_KEY = 0
 const PORT = 8000;
 
-
 let endpoints = [];
 let objectDB = {};
 const isJson = (str) => {
@@ -34,7 +33,6 @@ files.forEach((fileName) => {
     }
   }
 })
-
 
 const userdb = JSON.parse(fs.readFileSync('./src/db/users.json', 'UTF-8'))
 
@@ -61,11 +59,16 @@ function isAuthenticated({email, password}){
   return userdb.users.findIndex(user => user.email === email && user.password === password) !== -1
 }
 
+function getUserData({email, password}){
+  return userdb.users[userdb.users.findIndex(user => user.email === email && user.password === password)]
+}
+
 // Register New User
 server.post('/auth/register', (req, res) => {
   console.log("register endpoint called; request body:");
+  const user = req.body;
   console.log(req.body);
-  const {email, password} = req.body;
+  const {email, password, firstName, lastName} = req.body;
 
   if(isAuthenticated({email, password}) === true) {
     const status = 401;
@@ -74,14 +77,13 @@ server.post('/auth/register', (req, res) => {
     return
   }
 
-fs.readFile("./src/db/users.json", (err, data) => {  
+fs.readFile("./src/db/users.json", (err, data) => {
     if (err) {
       const status = 401
       const message = err
       res.status(status).json({status, message})
       return
     };
-
     // Get current users data
     var data = JSON.parse(data.toString());
 
@@ -89,7 +91,13 @@ fs.readFile("./src/db/users.json", (err, data) => {
     var last_item_id = data.users[data.users.length-1].id;
 
     //Add new user
-    data.users.push({id: last_item_id + 1, email: email, password: password}); //add some data
+    data.users.push({
+      id: last_item_id + 1, 
+      firstName: firstName, 
+      lastName: lastName,
+      email: email, 
+      password: password 
+    }); //add some data
     var writeData = fs.writeFile("./src/db/users.json", JSON.stringify(data), (err, result) => {  // WRITE
         if (err) {
           const status = 401
@@ -101,9 +109,10 @@ fs.readFile("./src/db/users.json", (err, data) => {
 });
 
 // Create token for new user
-  const access_token = createToken({email, password})
+  
+  const access_token = createToken({email, password});
   console.log("Access Token:" + access_token);
-  res.status(200).json({access_token})
+  res.status(200).json({access_token, user});
 })
 
 // Login to one of the users from ./users.json
@@ -118,36 +127,35 @@ server.post('/auth/login', (req, res) => {
     return
   }
   const access_token = createToken({email, password})
+  const user = getUserData({email, password})
   console.log("Access Token:" + access_token);
-  res.status(200).json({access_token})
+  res.status(200).json({access_token, user})
 })
 
-server.use(/^(?!\/auth).*$/,  (req, res, next) => {
-  if (req.headers.authorization === undefined || req.headers.authorization.split(' ')[0] !== 'Bearer') {
-    const status = 401
-    const message = 'Error in authorization format'
-    res.status(status).json({status, message})
-    return
-  }
-  try {
-    let verifyTokenResult;
-     verifyTokenResult = verifyToken(req.headers.authorization.split(' ')[1]);
+// server.use(/^(?!\/auth).*$/,  (req, res, next) => {
+//   if (req.headers.authorization === undefined || req.headers.authorization.split(' ')[0] !== 'Bearer') {
+//     const status = 401
+//     const message = 'Error in authorization format'
+//     res.status(status).json({status, message})
+//     return
+//   }
+//   try {
+//     let verifyTokenResult;
+//      verifyTokenResult = verifyToken(req.headers.authorization.split(' ')[1]);
 
-     if (verifyTokenResult instanceof Error) {
-       const status = 401
-       const message = 'Access token not provided'
-       res.status(status).json({status, message})
-       return
-     }
-     next()
-  } catch (err) {
-    const status = 401
-    const message = 'Error access_token is revoked'
-    res.status(status).json({status, message})
-  }
-})
-
-
+//      if (verifyTokenResult instanceof Error) {
+//        const status = 401
+//        const message = 'Access token not provided'
+//        res.status(status).json({status, message})
+//        return
+//      }
+//      next()
+//   } catch (err) {
+//     const status = 401
+//     const message = 'Error access_token is revoked'
+//     res.status(status).json({status, message})
+//   }
+// })
 
 const router = jsonServer.router(objectDB)
 const middlewares = jsonServer.defaults()
