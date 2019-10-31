@@ -2,6 +2,7 @@
   "professional": [
     {
       "_id": "5da5994141c072fac51ac66a",
+      "category": "professional",
       "rating": 4,
       "populars": 24,
       "index": 0,
@@ -25,6 +26,7 @@
     },
     {
       "_id": "5da59941ec20452d31bc43f7",
+      "category": "professional",
       "rating": 3,
       "populars": 37,
       "index": 1,
@@ -48,6 +50,7 @@
     },
     {
       "_id": "5da5994172ced317603de01c",
+      "category": "professional",
       "rating": 1,
       "populars": 97,
       "index": 2,
@@ -71,6 +74,7 @@
     },
     {
       "_id": "5da5994192307e848d26dc70",
+      "category": "professional",
       "rating": 2,
       "populars": 93,
       "index": 3,
@@ -94,6 +98,7 @@
     },
     {
       "_id": "5da59941ca451cf8a9a18c88",
+      "category": "professional",
       "rating": 3,
       "populars": 55,
       "index": 4,
@@ -117,6 +122,7 @@
     },
     {
       "_id": "5da59941b97c7c785461caff",
+      "category": "professional",
       "rating": 3,
       "populars": 35,
       "index": 5,
@@ -140,6 +146,7 @@
     },
     {
       "_id": "5da59941fb447b3cfd9f6843",
+      "category": "professional",
       "rating": 4,
       "populars": 74,
       "index": 6,
@@ -163,6 +170,7 @@
     },
     {
       "_id": "5da59941e78890637100f181",
+      "category": "professional",
       "rating": 5,
       "populars": 6,
       "index": 7,

@@ -2,6 +2,7 @@
   "perfect": [
     {
       "_id": "5da5a53dfa9d339b09ce690c",
+      "category": "perfect",
       "rating": 3,
       "populars": 56,
       "index": 0,
@@ -25,6 +26,7 @@
     },
     {
       "_id": "5da5a53d17ba457fd00ef385",
+      "category": "perfect",
       "rating": 2,
       "populars": 78,
       "index": 1,
@@ -48,6 +50,7 @@
     },
     {
       "_id": "5da5a53ddde0ac5541f9614d",
+      "category": "perfect",
       "rating": 4,
       "populars": 76,
       "index": 2,
@@ -71,6 +74,7 @@
     },
     {
       "_id": "5da5a53dbb5e52a3942e2a50",
+      "category": "perfect",
       "rating": 1,
       "populars": 24,
       "index": 3,
@@ -94,6 +98,7 @@
     },
     {
       "_id": "5da5a53d01bd992f5ba538e8",
+      "category": "perfect",
       "rating": 3,
       "populars": 12,
       "index": 4,
@@ -117,6 +122,7 @@
     },
     {
       "_id": "5da5a53d9bbbd7d7adb0c7c6",
+      "category": "perfect",
       "rating": 4,
       "populars": 61,
       "index": 5,
@@ -140,6 +146,7 @@
     },
     {
       "_id": "5da5a53d693fc06d2ae7c2c8",
+      "category": "perfect",
       "rating": 4,
       "populars": 71,
       "index": 6,
@@ -163,6 +170,7 @@
     },
     {
       "_id": "5da5a53dfc72e22044cc479d",
+      "category": "perfect",
       "rating": 1,
       "populars": 100,
       "index": 7,

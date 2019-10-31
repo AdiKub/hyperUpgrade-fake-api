@@ -2,6 +2,7 @@
   "inexpensive": [
     {
       "_id": "5da5a8f4942c4648d25fcd27",
+      "category": "inexpensive",
       "rating": 4,
       "populars": 78,
       "index": 0,
@@ -25,6 +26,7 @@
     },
     {
       "_id": "5da5a8f4711a3a06fdac2115",
+      "category": "inexpensive",
       "rating": 4,
       "populars": 15,
       "index": 1,
@@ -48,6 +50,7 @@
     },
     {
       "_id": "5da5a8f4a7671ad1142bd0bf",
+      "category": "inexpensive",
       "rating": 5,
       "populars": 14,
       "index": 2,
@@ -71,6 +74,7 @@
     },
     {
       "_id": "5da5a8f4306ca0eb5043179d",
+      "category": "inexpensive",
       "rating": 4,
       "populars": 1,
       "index": 3,
@@ -94,6 +98,7 @@
     },
     {
       "_id": "5da5a8f4a067bde3202eb4e1",
+      "category": "inexpensive",
       "rating": 2,
       "populars": 83,
       "index": 4,
@@ -117,6 +122,7 @@
     },
     {
       "_id": "5da5a8f47c3a6e0db8036c3f",
+      "category": "inexpensive",
       "rating": 5,
       "populars": 18,
       "index": 5,
@@ -140,6 +146,7 @@
     },
     {
       "_id": "5da5a8f4b2c83a2ac3e3de17",
+      "category": "inexpensive",
       "rating": 4,
       "populars": 93,
       "index": 6,
@@ -163,6 +170,7 @@
     },
     {
       "_id": "5da5a8f424aca814241a78bb",
+      "category": "inexpensive",
       "rating": 2,
       "populars": 11,
       "index": 7,
