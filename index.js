@@ -22,6 +22,7 @@ const isJson = (str) => {
 }
 
 let files = fs.readdirSync(path.resolve(__dirname, './src/db/'))
+
 files.forEach((fileName) => {
   if (fileName.indexOf('.json') > -1) {
     const jsonObject = JSON.parse(fs.readFileSync('./src/db/' + fileName));
@@ -109,6 +110,7 @@ fs.readFile("./src/db/users.json", (err, data) => {
 });
 
 // Create token for new user
+// asdfadsfadsfadf
   
   const access_token = createToken({email, password});
   console.log("Access Token:" + access_token);
